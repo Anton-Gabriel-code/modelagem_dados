@@ -1,4 +1,4 @@
-# Projetos executados na disciplina de Modelagem de dados
+# Projetos executado na disciplina de Modelagem de dados
 
 >Aluno - Antônio Gabriel
 
